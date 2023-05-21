@@ -165,3 +165,8 @@ site
 # created by virtualenv automatically
 .venv/**/*
 fly.toml
+
+docker-compose.yml
+fly.toml
+README.md
+.venv/
